@@ -37,7 +37,7 @@ Me considero una persona responsable, comprometida y perseverante. Siempre estoy
 
 📧 **Email:** roarias48@gmail.com
 
- 🔗 [LinkedIn](https://www.linkedin.com/in/rocio-del-cielo-arias/)
+🔗 **LinkedIn:** https://www.linkedin.com/in/rocio-del-cielo-arias/
 
 <p align="center">
 ⭐ Gracias por visitar mi perfil.
