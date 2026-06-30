@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! 👋 Soy Rocío Arias</h1>
 
-<h3 align="center">💻 Desarrolladora Full Stack | Especializada en Frontend</h3>
+<h3 align="center">💻 Full Stack Developer | Frontend Developer</h3>
 
 <p align="center">
 Apasionada por la tecnología, el aprendizaje continuo y el desarrollo de aplicaciones web modernas.
