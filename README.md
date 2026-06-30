@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! 👋 Soy Rocío Arias</h1>
 
-<h3 align="center">💻 Desarrolladora Full Stack</h3>
+<h3 align="center">💻 Desarrolladora Full Stack | Especializada en Frontend</h3>
 
 <p align="center">
 Apasionada por la tecnología, el aprendizaje continuo y el desarrollo de aplicaciones web modernas.
@@ -10,15 +10,13 @@ Apasionada por la tecnología, el aprendizaje continuo y el desarrollo de aplica
 
 ## 🙋‍♀️ Sobre mí
 
-Soy una desarrolladora Full Stack apasionada por la tecnología y el aprendizaje continuo. Disfruto enfrentar nuevos desafíos, resolver problemas y crear aplicaciones web funcionales, intuitivas y con una excelente experiencia de usuario.
+Soy desarrolladora Full Stack con especial interés en el desarrollo Frontend. Disfruto crear interfaces modernas, intuitivas y enfocadas en brindar una excelente experiencia de usuario.
 
-Durante mi formación participé en distintos proyectos colaborativos que me permitieron fortalecer mis habilidades técnicas, trabajar con metodologías ágiles y comprender la importancia de la comunicación y el trabajo en equipo para alcanzar objetivos comunes.
+Durante mi formación en Henry participé en proyectos colaborativos utilizando React, Next.js, TypeScript, Node.js y NestJS, trabajando con metodologías ágiles, Git y GitHub.
 
-Aunque disfruto de todo el proceso de desarrollo, el área de Frontend es la que más me motiva, ya que me permite combinar lógica, creatividad y diseño para construir interfaces modernas, atractivas y fáciles de usar. Al mismo tiempo, continúo ampliando mis conocimientos en Backend para seguir creciendo como desarrolladora Full Stack.
+Me considero una persona responsable, comprometida y con muchas ganas de seguir aprendiendo. Actualmente busco mi primera oportunidad como Frontend o Full Stack Developer para continuar creciendo profesionalmente y aportar valor a nuevos desafíos.
 
-Me considero una persona responsable, comprometida y perseverante. Siempre estoy dispuesta a aprender nuevas tecnologías, mejorar mis habilidades y aportar valor en cada proyecto del que formo parte.
-
-🌱 Actualmente me encuentro en búsqueda de mi primera oportunidad profesional.
+🌱 **Actualmente me encuentro en búsqueda de mi primera oportunidad profesional.**
 
 ---
 
